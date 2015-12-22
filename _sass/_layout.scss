@@ -141,9 +141,6 @@
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-.bottom-image {
-    
-}
 
 @include media-query($on-laptop) {
     .footer-col-1,
