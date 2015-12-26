@@ -3,7 +3,6 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 200px;
-	width: 350px;
 }
 
 #lowner-p {
@@ -11,8 +10,6 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 200px;
-	width: 350px;
-
 }
 
 #dylo-h {
@@ -20,7 +17,6 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 200px;
-	width: 350px;
 }
 
 #dylo-i {
@@ -28,7 +24,6 @@
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 200px;
-	width: 350px;
 }
 
 .project-ss {
@@ -37,4 +32,20 @@
 
 #project-left {
 	margin-right: 25px;
+	padding-left: 0;
+	background-color: rgba(1, 20, 30, 0.5)
+}
+
+#lowner-info {
+	display: none;
+}
+
+#lowner-more {
+	border-radius: 5px;
+	border: 1px solid grey;
+	background-color: #8D99AE;
+}
+
+#dylo-info {
+	display: none;
 }

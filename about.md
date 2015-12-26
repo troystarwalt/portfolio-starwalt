@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Troy Starwalt. Thanks for taking some time to visit my portfolio site.
 
-I'm a full stack web developer with experience in Ruby, Rails, jQuery, Javascript, CSS, SCSS, ActiveRecord and SQL. Send me a quick note via email [Send Email](mailto:troy.starwalt@gmail.com) if you'd like to learn more.
+I'm a full stack web developer with experience in Ruby, Rails, jQuery, Javascript, CSS, SCSS, ActiveRecord and SQL. Send me a quick note [via email](mailto:troy.starwalt@gmail.com) if you'd like to learn more.
 
 <u>Education</u>
 <p><strong>South East Missouri State University</strong></p>
