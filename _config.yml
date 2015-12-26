@@ -9,7 +9,7 @@
 title: Troy Starwalt
 email: troy.starwalt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Troy Starwalt's portfolio site.
+  I'm a full-stack freelance web developer available for hire. Say hi!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://troystarwalt.co" # the base hostname & protocol for your site
 twitter_username: troyst
