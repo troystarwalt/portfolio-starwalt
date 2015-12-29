@@ -8,6 +8,12 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li><i class="fa fa-envelope-square email-area"></i><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
@@ -25,17 +31,13 @@
           </li>
           {% endif %}
 
-          {% if site.linkedin_username %}
-          <li>
-            {% include icon-linkedin.html username=site.linkedin_username %}
-          </li>
-          {% endif %}
           
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
+        <p id="signature">Troy Starwalt</p>
       </div>
     </div>
 
