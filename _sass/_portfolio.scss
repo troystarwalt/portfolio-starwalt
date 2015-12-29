@@ -33,19 +33,66 @@
 #project-left {
 	margin-right: 25px;
 	padding-left: 0;
-	background-color: rgba(1, 20, 30, 0.5)
 }
 
 #lowner-info {
 	display: none;
+	padding-top: 15px;
 }
 
-#lowner-more {
-	border-radius: 5px;
-	border: 1px solid grey;
-	background-color: #8D99AE;
-}
 
 #dylo-info {
 	display: none;
+}
+
+.more-info-button-area {
+	width: auto;
+	margin-left: 14%;
+}	
+
+.language-list {
+	list-style: none;
+}
+
+.learn-more {
+	font-size: 1.2em;
+	font-family: "Montserrat", "Trebuchet MS", Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	padding: .8em 1.4em;
+	padding-right: 1.2em;
+	background-color: #1BE7FF;
+	border: none;
+	color: white;
+	transition: .5s;
+}
+
+.learn-more:hover {
+	background: darken(#1BE7FF, 10%);
+}
+
+.down-arrow:hover {
+	-webkit-animation: bounceright .3s alternate ease infinite;
+	animation: bounceright .3s alternate ease infinite;
+}
+
+.fa-level-down {
+	padding-left: 1em;
+
+}
+
+@-webkit-keyframes bounceright {
+  from {
+    -webkit-transform: translateX(0);
+  }
+  to {
+    -webkit-transform: translateX(3px);
+  }
+}
+
+#portfolio-photo {
+	width:100%;
+}
+
+.about-listing {
+	border-bottom: 1px solid #424242;
 }
