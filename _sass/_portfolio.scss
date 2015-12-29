@@ -43,6 +43,8 @@
 
 #dylo-info {
 	display: none;
+	padding-top: 15px;
+
 }
 
 .more-info-button-area {
@@ -81,12 +83,12 @@
 }
 
 @-webkit-keyframes bounceright {
-  from {
-    -webkit-transform: translateX(0);
-  }
-  to {
-    -webkit-transform: translateX(3px);
-  }
+	from {
+		-webkit-transform: translateX(0);
+	}
+	to {
+		-webkit-transform: translateX(3px);
+	}
 }
 
 #portfolio-photo {
