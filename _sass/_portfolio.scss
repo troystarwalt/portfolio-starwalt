@@ -2,35 +2,56 @@
 	background: url("/images/lowner-home.jpeg");
 	background-size: contain;
 	background-repeat: no-repeat;
-	height: 200px;
+	width: 250px
+	height: auto;
 }
 
 #lowner-p {
 	background: url("/images/lowner-profile2-small.png");
 	background-size: contain;
 	background-repeat: no-repeat;
-	height: 200px;
+	width: 250px
+	height: auto;
 }
 
 #dylo-h {
 	background: url("/images/dylo-home.jpeg");
 	background-size: contain;
 	background-repeat: no-repeat;
-	height: 200px;
+	width: 250px
+	height: auto;
 }
 
 #dylo-i {
 	background: url("/images/dylo-interact-small.png");
 	background-size: contain;
 	background-repeat: no-repeat;
-	height: 200px;
+	width: 250px
+	height: auto;
 }
+
+#jenny-h {
+	background: url("/images/jenny.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 250px
+	height: auto;
+}
+
+#jenny-i {
+	background: url("/images/jenny-work.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 250px
+	height: auto;
+}
+
 
 .project-ss {
 	margin-bottom: 10px;
 }
 
-#project-left {
+.project-left {
 	margin-right: 25px;
 	padding-left: 0;
 }
@@ -42,6 +63,12 @@
 
 
 #dylo-info {
+	display: none;
+	padding-top: 15px;
+
+}
+
+#jenny-info {
 	display: none;
 	padding-top: 15px;
 

@@ -5,4 +5,7 @@ $(document).ready(function() {
 	$("#dylo-more").click(function() {
 		$("#dylo-info").toggle("drop", {direction: "up"});
 	});
+	$("#jenny-more").click(function() {
+		$("#jenny-info").toggle("drop", {direction: "up"});
+	});
 });
