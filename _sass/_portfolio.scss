@@ -1,3 +1,5 @@
+
+// CSS Controls for Project Images
 #lowner-h {
 	background: url("/images/lowner-home.jpeg");
 	background-size: contain;
@@ -49,6 +51,8 @@
 	margin-right: 25px;
 	padding-left: 0;
 }
+
+// Show or Hide THe Descriptions
 
 #lowner-info {
 	display: none;
@@ -112,10 +116,22 @@
 	}
 }
 
+// About Page
+
 #portfolio-photo {
 	width:100%;
 }
 
 .about-listing {
 	border-bottom: 1px solid #424242;
+}
+
+.resume-button {
+	color: white;
+	padding-top: 0.9em;
+	padding-bottom: 0.9em;
+}
+
+.download-button {
+	margin-left: 3px;
 }

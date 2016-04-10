@@ -10,6 +10,10 @@ permalink: /about/
 	</div>
 	<div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
 		I'm a full stack web developer based in New York City. Send me a quick note <a href="mailto:troy.starwalt@gmail.com"> via email</a> if you'd like to learn more and setup a time to talk.
+		<p>Below is a quick look at some of my tools and education.</p>
+		<button class="learn-more">
+		<a href="https://docs.google.com/document/d/1G4r2skssUnuBM9bgKk3pHToq9KiXXEnqPBrqWhrVEMs/edit?usp=sharing" class="resume-button">Download Full Resume<i class="fa fa-download download-button"></i></a>
+		</button>
 	</div>
 </div>
 <br />
@@ -24,6 +28,7 @@ permalink: /about/
 	<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">Interact.js</div>
 	<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">ActiveRecord</div>
 	<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">Git</div>
+	<div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">SQL</div>
 </div>
 <br />
 <h4 class="about-listing" id="education">Education</h4>
