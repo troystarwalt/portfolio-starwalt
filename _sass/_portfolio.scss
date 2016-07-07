@@ -42,6 +42,19 @@
 	height: 200px;
 }
 
+#xaxis-h {
+	background: url("/images/xaxis.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 200px;
+}
+
+#xaxis-i {
+	background: url("/images/xaxis-work.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 200px;
+}
 
 .project-ss {
 	margin-bottom: 10px;
@@ -70,6 +83,11 @@
 	display: none;
 	padding-top: 15px;
 
+}
+
+#xaxis-info {
+	display: none;
+	padding-top: 15px;
 }
 
 .more-info-button-area {
