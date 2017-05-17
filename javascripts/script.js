@@ -15,9 +15,9 @@ $(document).ready(function() {
 	// Below is code that replaces #who-am-i with items from the array on a loop.
 
 	var whoAmIText = [
-		"not a dancer", 
-		"a web developer with past experience in project and event management", 
-		"an organized and results drivien freelance web developer.", 
+		"not a dancer",
+		"a web developer with past experience in project and event management",
+		"an organized and results drivien freelance web developer",
 		"not a hair stylist", "a person that enjoys good and bad beer"
 		];
 	var numWho = whoAmIText.length;
