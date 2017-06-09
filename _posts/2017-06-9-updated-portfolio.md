@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Updated Portfolio!"
-date:   2017-05-20 19:03:53 EDT 2017
+date:   2017-06-09 19:03:53 EDT 2017
 categories: meta update
 ---
 
@@ -11,4 +11,4 @@ So, to keep things moving along, I'm going to work on making at least one post a
 
 For now, I'm focusing on the blog aspect. I'll be adding a new projects section and an updated about section. I'm thinking that I'll use the project section as a playground for styles while keeping the rest of the site fairly clean.  
 
-Oh big news, I have a kid now. He's three weeks old. Life changing. 
+Oh big news, I have a kid now. He's 6 weeks old. Life changing.
