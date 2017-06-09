@@ -1,3 +1,5 @@
+console.log('ready');
+
 $(document).ready(function() {
 	$("#lowner-more").click(function() {
 		$("#lowner-info").toggle("drop", {direction: "up"});
