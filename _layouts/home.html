@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <p>Welcome</p>
+  <p>I'm a full stack web developer based in New York City. Find out more about me <a href="/about">here</a> and my projects <a href="/projects">here</a>. I also write things from time to time, so save this to your favorites for some weekly wisdom.</p>
+
+  <h2 class="page-heading">Posts</h1>
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
