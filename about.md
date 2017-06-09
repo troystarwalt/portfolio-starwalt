@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Working on this. Check out my [old section here](/old_home).  
+Working on this section. Check out my [old about me](/old_home) for some more information on me while I update this.  
