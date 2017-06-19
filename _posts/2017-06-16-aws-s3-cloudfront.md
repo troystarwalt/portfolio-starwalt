@@ -5,8 +5,7 @@ date:   2017-06-16 16:46:53 EDT 2017
 categories: aws devops
 ---
 
-# File Hosting Use: AWS, AWS CLI, S3, CloudFront & GitHub
-This is a short series of posts that go into detail on a hosting "problem" and the steps I took to get there. It will be four, maybe five posts.
+*This is a short series of posts that go into detail on a hosting "problem" and the steps I took to get there.*
 
 ## A Problem
 For a recent project, there was a need to provide a few hosted files for a site ran by another company. As the files were small and security wasn't an issue there were a lot of options available.  
